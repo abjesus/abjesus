@@ -1,7 +1,7 @@
-## Hi, I'm Abel Jesus 👋
+## Hi, I'm Abel 👋
 
 - 🌱 I’m currently learning: Flutter, Dart
-- 🚀Skills: C#, Typescript, SQLServer, Oracle, e Angular.
+- 🚀Skills: C#, Typescript, SQLServer, Oracle and Angular.
 
 [![abjesus GitHub stats](https://github-readme-stats.vercel.app/api?username=abjesus&show_icons=true&theme=radical)](https://github.com/abjesus)
 
